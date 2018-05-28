@@ -1,0 +1,14 @@
+			##	Acces Utilisateurs	##
+
+
+<WP-admin> 	Identifiant: wordpress 
+			MotDePasse: unix
+			Mail: plague19100@gmail.com
+
+<Client>	Identifiant: wordpress-client
+			MotDePasse: unix-client
+			Mail: wordpress-client@gmail.com
+
+<Employé>	Identifiant: wordpress-employe
+			MotDePasse: unix-employe
+			Mail: wordpress-employe@gmail.com
